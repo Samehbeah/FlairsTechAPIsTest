@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-25T06:36:00Z" name="Suite" finished-at="2024-04-25T06:36:09Z" duration-ms="8904">
+    <groups>
+    </groups>
+    <test started-at="2024-04-25T06:36:00Z" name="Test" finished-at="2024-04-25T06:36:09Z" duration-ms="8904">
+      <class name="testAPIs.testAddNewCandidate">
+        <test-method signature="createCandidate()[pri:0, instance:testAPIs.testAddNewCandidate@79dc5318]" started-at="2024-04-25T08:36:00Z" name="createCandidate" finished-at="2024-04-25T08:36:07Z" duration-ms="7537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCandidate -->
+        <test-method signature="deleteCandidate()[pri:0, instance:testAPIs.testAddNewCandidate@79dc5318]" started-at="2024-04-25T08:36:07Z" name="deleteCandidate" finished-at="2024-04-25T08:36:09Z" duration-ms="1336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCandidate -->
+      </class> <!-- testAPIs.testAddNewCandidate -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
